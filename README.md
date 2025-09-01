@@ -1,4 +1,4 @@
 # mydemo
 This is my first Git Repository
 <br>
-Author - Mayur Prajapati
+Author - Mayur Prajapati(mydemo)
